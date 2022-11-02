@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include("home.urls")),
     path('my_vape/', include("my_vape.urls")),
+    path('brand/', include("brand.urls")),
     ]
