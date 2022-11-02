@@ -9,13 +9,13 @@ blog dedicated to vapes
 Select a preferred folder
 >> cd <"carpeta de preferencia // preferred folder">
 
-3. Utilizar este comando en// use this command
+3. Utilizar este comando // use this command
 >> cd git clone https://github.com/Chiken22/BlossedVape-Blog.git
 
 4. Abrir VS Code // Open VS Code
 >> code .
 
-En seguida en VS code damos Ctrl+j o Terminal/New Terminal y ejecutamos los comandos que se muestran a continuación. // 
+Enseguida en VS code damos Ctrl+j o Terminal/New Terminal y ejecutamos los comandos que se muestran a continuación. // 
 Then in VS code, Ctrl + j or Terminal/New Terminal and execute the commands shown below.
 
 5. Crear entorno virtual (venv) // Create virtual environment (venv)
